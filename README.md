@@ -34,7 +34,7 @@ Make sure to replace `/path/to/backup.php` with the actual path to your `backup.
 
 ### Credits
 
-This PHP script was written by [Fahad Murtaza](https://www.fahdmurtaza.com/) and is released under the [MIT License](https://chat.openai.com/LICENSE).
+This PHP script was written by [Fahad Murtaza](https://www.fahdmurtaza.com/) and is released under the [MIT License](https://opensource.org/license/mit/).
 
 
 ### Blog Post
